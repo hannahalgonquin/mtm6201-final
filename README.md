@@ -2,11 +2,8 @@
 My Final Assignment Portfolio
 
 ## Process
-The project was developed based on the provided hi-fi wireframes using the Bootstrap framework. Custom CSS was used to match the design specifications.
-
-How to start/describe the process
-
-
+The development process began with translating the high-fidelity wireframe from the UX Design I assignment into a responsive Bootstrap-based website. 
+I structured the HTML files, implemented Bootstrap components, and customized styles using CSS variables. The site was then optimized for various screen sizes to ensure responsiveness.
 
 ## Challenges
 One challenge was ensuring the website was responsive and met accessibility standards. This was addressed by using Bootstrap's responsive grid and implementing ARIA roles.
